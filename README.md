@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CalebSam24
+- 👋 Hi, I’m @Caleb Sam
 - 👀 I’m interested in UX/UI Designing and Full Stack Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Software Developement
